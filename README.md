@@ -1,0 +1,4 @@
+# NIALM
+Multi Class classification of Electric Loads using ANN and DNN
+Maintaining a track of the energy consumption is substantial for every power system which ascertains the need of efficient energy auditing. Automated techniques like Non-Intrusive Appliance Load monitoring (NIALM) have previously been based on the evaluation of load energy signatures like real power, reactive power and harmonic content. By specifying the transient responses of the devices, their identification can be validated and made more reliable with improved computational speed. Every electrical device has a unique electronic signature. Non-Intrusive Load Monitoring (NILM) refers to the analysis of these signatures to identify active loads using advanced machine learning detection algorithms
+The Electrical datasets are created for this purpose by the contributors of this project. The datasets are then classified using Aritificial Neural Networks and Deep Neural Networks
